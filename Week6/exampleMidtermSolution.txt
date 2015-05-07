@@ -1,0 +1,13 @@
+variables: lowerCamelCase
+constants: EXAMPLE_OF_A_CONSTANT
+methods: lowerCamelCase
+classes: UpperCamelCase
+static method: tied to class, no need to create object/instance before using it
+example: main, Math.abs(), Math.pow()
+  String.valueOf()
+instance method: tied to a instance/object
+example: the scanner methods, startsWith, endsWith
+
+String s = "this is a book";
+s = s.replace("this", "lol");
+
