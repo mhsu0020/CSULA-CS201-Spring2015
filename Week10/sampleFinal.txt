@@ -1,0 +1,39 @@
+1. declare a new array using the new keyword:
+
+a)int[] myArray = new int[3];
+
+b)array literal
+
+int[] myArrayTwo = {1, 2, 3, 4};
+
+c)annonymous
+myMethod(new int[]{2, 3, 5, 6})
+
+2. A primitive variable will be the type of 
+
+int, long, double, boolean, char, etc.
+
+A refrence variable will have refrence types:
+array, String, Class/Student/Scanner
+
+3. java is always pass by value:
+
+  a)primitives: make a copy of the value
+  b)refrence types: make copy of the memory address
+   
+  You cannot modify the original variable
+
+4. static method: belongs to the class
+    Math.random()
+   instance method: belongs to the object/instance
+       Example: scanner.nextIn()
+5. You can pass the parameters as program arguments in the eclipse run configurations page. Each argument is sepreated by white spaces
+    
+6. ArrayIndexOutOfBoundsException, 
+
+    runtime error
+7. 
+    
+
+
+
